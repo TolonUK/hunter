@@ -9,7 +9,7 @@ Contributing
 There are many ways to contribute to Hunter:
 
 - Documentation
-- There is a newer version of an existing package? `Notify us <https://github.com/cpp-pm/hunter/issues>`__ or send a pull request with an updated version.
+- There is a newer version of an existing package? `Notify us <https://github.com/cpp-pm/hunter/issues>`__ or send a pull request with an :doc:`updated version </creating-new/update>`.
 - Missing a package in Hunter? :ref:`Add a new package <creating new>`
 - `Resolve Issues <https://github.com/cpp-pm/hunter/issues>`__
 
